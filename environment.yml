@@ -1,0 +1,11 @@
+name: mosdef-workshop
+channels:
+  - conda-forge
+dependencies:
+  - mbuild
+  - foyer
+  - gmso
+  - nglview
+  - mosdef_cassandra
+  - py3dmol
+  - matplotlib
