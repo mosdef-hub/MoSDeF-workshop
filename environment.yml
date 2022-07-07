@@ -7,5 +7,6 @@ dependencies:
   - gmso
   - nglview
   - mosdef_cassandra
+  - gromacs
   - py3dmol
   - matplotlib
