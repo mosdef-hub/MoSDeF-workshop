@@ -1,12 +1,15 @@
 name: mosdef-workshop
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - mbuild
   - foyer
   - gmso
   - nglview
+  - hoomd
   - mosdef_cassandra
   - gromacs
   - py3dmol
   - matplotlib
+  - panedr
