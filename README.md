@@ -49,7 +49,7 @@ https://mybinder.org/v2/gh/mosdef-hub/FOMMS-workshop/HEAD
 
 <p align="center">
   <img src="graphics/FOMMS_2022_logo.png" alt="FOMMS Logo" width="250" height="250"/> 
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="graphics/mosdef_logo.png" alt="MoSDeF Logo" width="250", height="250
 "/>
 </p>
