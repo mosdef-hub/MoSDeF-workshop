@@ -30,13 +30,16 @@ notebooks locally or access it through [Mybinder](https://mybinder.org/v2/gh/mos
 If you choose to download the tutorials and host them locally, please follow the installation instruction below.
 
 ## Installation 
-Follow the command below to clone and create the `conda` environment for this repository:
+Follow the command below to clone and create the `conda` environment for this repository. Assuming you already have conda installed locally:
+
 ```sh
+conda install mamba -n base -c conda-forge
+
 git clone https://github.com/mosdef-hub/fomms-workshop.git
 cd fomms-workshop
 
-conda env create -f environment.yml
-conda activate mosdef-workshop
+mamba env create -f environment.yml
+mamba activate mosdef-workshop
 
 jupyter notebook
 ```
