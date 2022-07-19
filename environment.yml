@@ -24,4 +24,4 @@ dependencies:
   - openbabel
   - pip
   - pip:
-    - git+https://github.com/mosdef-hub/gmso.git@develop
+    - "--editable=git+https://github.com/mosdef-hub/gmso.git@develop#egg=gmso"
