@@ -5,7 +5,6 @@ channels:
 dependencies:
   - mbuild
   - foyer
-  - gmso
   - nglview
   - hoomd
   - mosdef_cassandra
@@ -13,3 +12,8 @@ dependencies:
   - py3dmol
   - matplotlib
   - panedr
+  - mdtraj
+  - forcefield-utilities
+  - pip
+  - pip:
+      - git+https://github.com/mosdef-hub/gmso.git@develop
