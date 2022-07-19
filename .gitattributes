@@ -1,0 +1,4 @@
+tutorials/gmso_files/gmso_sim/em.trr filter=lfs diff=lfs merge=lfs -text
+tutorials/gmso_files/gmso_sim/npt.trr filter=lfs diff=lfs merge=lfs -text
+tutorials/gmso_files/gmso_sim/nvt.trr filter=lfs diff=lfs merge=lfs -text
+*.trr filter=lfs diff=lfs merge=lfs -text
