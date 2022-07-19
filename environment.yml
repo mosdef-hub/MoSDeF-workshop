@@ -1,4 +1,4 @@
-name: mosdef-workshop
+name: fomms-workshop
 channels:
   - conda-forge
   - bioconda
@@ -6,6 +6,7 @@ dependencies:
   - mbuild
   - foyer
   - gmso
+  - mdtraj
   - nglview
   - hoomd
   - mosdef_cassandra
@@ -13,3 +14,12 @@ dependencies:
   - py3dmol
   - matplotlib
   - panedr
+  - signac
+  - signac-flow 
+  - sigac-dashboard
+  - pandas
+  - numpy
+  - h5py
+  - pip
+  - pip:
+    - git+https://github.com/mosdef-hub/gmso.git@develop
