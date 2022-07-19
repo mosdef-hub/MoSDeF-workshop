@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large files
+./tutorials/gmso_files/gmso_sim/*.trr
