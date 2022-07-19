@@ -130,4 +130,6 @@ dmypy.json
 .pyre/
 
 # large files
-./tutorials/gmso_files/gmso_sim/*.trr
+tutorials/gmso_files/gmso_sim/em.trr
+tutorials/gmso_files/gmso_sim/npt.trr
+tutorials/gmso_files/gmso_sim/nvt.trr
