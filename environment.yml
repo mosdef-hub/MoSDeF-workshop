@@ -9,6 +9,7 @@ dependencies:
   - nglview
   - hoomd
   - mosdef_cassandra
+  - cassandra
   - gromacs
   - py3dmol
   - matplotlib
@@ -19,6 +20,8 @@ dependencies:
   - pandas
   - numpy
   - h5py
+  - gsd
+  - openbabel
   - pip
   - pip:
     - git+https://github.com/mosdef-hub/gmso.git@develop
