@@ -25,3 +25,4 @@ dependencies:
   - pip
   - pip:
     - "--editable=git+https://github.com/mosdef-hub/gmso.git@develop#egg=gmso"
+    - "--editable=git+https://github.com/mosdef-hub/forcefield-utilities.git#egg=forcefield_utilities"
