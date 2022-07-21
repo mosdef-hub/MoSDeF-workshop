@@ -49,6 +49,16 @@ jupyter notebook
 Follow the image above to test this repository through the Mybinder service, or follow this link:
 https://mybinder.org/v2/gh/mosdef-hub/FOMMS-workshop/HEAD
 
+## Additional Resources
+
+More in-depth MoSDeF tutorials: https://github.com/mosdef-hub/mosdef_tutorials
+Example MoSDeF workflow: https://github.com/mosdef-hub/mosdef-workflows
+Documentations: 
+- https://mbuild.mosdef.org/en/stable/
+- https://foyer.mosdef.org/en/stable/
+- https://gmso.mosdef.org/en/stable/
+Join our mailing list: https://groups.google.com/g/mosdef-users
+Etherpad for this worshop: https://etherpad.boisestate.edu/p/mosdef-fomms2022
 
 <p align="center">
   <img src="graphics/FOMMS_2022_logo.png" alt="FOMMS Logo" width="250" height="250"/> 
