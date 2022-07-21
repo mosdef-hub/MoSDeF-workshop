@@ -22,6 +22,7 @@ dependencies:
   - h5py
   - gsd
   - openbabel
+  - unyt <= 2.8
   - pip
   - pip:
     - "--editable=git+https://github.com/mosdef-hub/gmso.git@develop#egg=gmso"
