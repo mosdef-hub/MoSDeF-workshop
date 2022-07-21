@@ -53,11 +53,17 @@ https://mybinder.org/v2/gh/mosdef-hub/FOMMS-workshop/HEAD
 ## Additional Resources
 
 More in-depth MoSDeF tutorials: https://github.com/mosdef-hub/mosdef_tutorials
-Example MoSDeF workflow: https://github.com/mosdef-hub/mosdef-workflows
+
+  
+Example MoSDeF workflow: https://github.com/mosdef-hub/mosdef-workflows  
+
+
 Documentations: 
 - https://mbuild.mosdef.org/en/stable/
 - https://foyer.mosdef.org/en/stable/
 - https://gmso.mosdef.org/en/stable/
+
+
 Join our mailing list: https://groups.google.com/g/mosdef-users
 
 
