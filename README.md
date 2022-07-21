@@ -28,6 +28,7 @@ https://github.com/mosdef-hub/foyer) and [`GMSO`](https://github.com/mosdef-hub.
 be presented in a series of Jupyter notebook, which participants can choose to download and fire up these 
 notebooks locally or access it through [Mybinder](https://mybinder.org/v2/gh/mosdef-hub/FOMMS-workshop/HEAD).
 If you choose to download the tutorials and host them locally, please follow the installation instruction below.
+Please leave your comment question during this workshop to the etherpad link: https://etherpad.boisestate.edu/p/mosdef-fomms2022
 
 ## Installation 
 Follow the command below to clone and create the `conda` environment for this repository. Assuming you already have conda installed locally:
@@ -48,6 +49,22 @@ jupyter notebook
 
 Follow the image above to test this repository through the Mybinder service, or follow this link:
 https://mybinder.org/v2/gh/mosdef-hub/FOMMS-workshop/HEAD
+
+## Additional Resources
+
+More in-depth MoSDeF tutorials: https://github.com/mosdef-hub/mosdef_tutorials
+
+  
+Example MoSDeF workflow: https://github.com/mosdef-hub/mosdef-workflows  
+
+
+Documentations: 
+- https://mbuild.mosdef.org/en/stable/
+- https://foyer.mosdef.org/en/stable/
+- https://gmso.mosdef.org/en/stable/
+
+
+Join our mailing list: https://groups.google.com/g/mosdef-users
 
 
 <p align="center">
